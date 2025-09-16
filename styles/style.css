@@ -52,7 +52,7 @@ nav p {
 
 .banner2 {
   width: 60%;
-  background-image: url(./assets/image/hojasFondo.jpg);
+  background-image: url(../assets/image/hojasFondo.jpg);
   background-size: cover;
   height: 750px;
   display: flex;
